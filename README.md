@@ -6,12 +6,6 @@ Market Basket Analysis trên tập giao dịch bán lẻ thực tế gồm 176,4
 ## Tech Stack
 Python | mlxtend (FP-Growth) | Pandas | NumPy | Plotly | Matplotlib | Seaborn
 
-## Dataset
-File `Retail_Transactions_Dataset2.csv` (~27 MB) không có trong repo.  
-📥 **Tải tại:** [YOUR_DRIVE_LINK_HERE]
-
-Sau khi tải, đặt file vào thư mục gốc của project.
-
 | Thông tin | Giá trị |
 |---|---|
 | Kích thước | 176,474 giao dịch × 13 cột |
